@@ -40,7 +40,6 @@ sanjusss/aliyun-ddns
 gitlab/gitlab-ce:latest
 witersencom/svnadmin:2.5.7
 xykt/check
-wordpress:5.8 1
 sonatype/nexus3
 goharbor/harbor-core
 quay.io/keycloak/keycloak
