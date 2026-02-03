@@ -56,7 +56,6 @@ haproxy:alpine
 ntop/ntopng
 netdata/netdata
 jasonish/suricata
-owasp/modsecurity-crs
 crazymax/fail2ban
 ubuntu/bind9
 kylemanna/openvpn
