@@ -50,7 +50,6 @@ n8nio/n8n
 zabbix/zabbix-server-mysql
 jasonrivers/nagios
 splunk/splunk
-logstash
 httpd:alpine
 caddy:alpine
 haproxy:alpine
