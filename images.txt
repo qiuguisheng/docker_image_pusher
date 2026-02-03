@@ -42,4 +42,36 @@ witersencom/svnadmin:2.5.7
 xykt/check
 wordpress:5.8 1
 sonatype/nexus3
+goharbor/harbor-core
+quay.io/keycloak/keycloak
+osixia/openldap
+jumpserver/jms_all
+freeipa/freeipa-server
+goharbor/harbor-core
+camunda/camunda-bpm-platform
+apache/airflow
+n8nio/n8n
+zabbix/zabbix-server-mysql
+jasonrivers/nagios
+splunk/splunk
+graylog/graylog
+elasticsearch
+logstash
+httpd:alpine
+caddy:alpine
+haproxy:alpine
+ntop/ntopng
+netdata/netdata
+sflow/snort
+jasonish/suricata
+owasp/modsecurity-crs
+crazymax/fail2ban
+ubuntu/bind9
+kylemanna/openvpn
+linuxserver/wireguard
+catatnight/postfix
+linuxserver/dovecot
+roundcube/roundcubemail
+mailu/nginx
+
 
