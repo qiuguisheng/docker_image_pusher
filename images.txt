@@ -61,6 +61,5 @@ ubuntu/bind9
 kylemanna/openvpn
 linuxserver/wireguard
 roundcube/roundcubemail
-mailu/nginx
 
 
