@@ -20,7 +20,13 @@ node
 node:alpine
 python
 python:alpine
-openjdk
+centos:centos8
+centos:stream8
+centos:stream9
+rockylinux:9.3
+rockylinux:latest
+rockylinux:9-minimal
+rockylinux:8
 openjdk:17
 golang
 php
