@@ -55,7 +55,6 @@ caddy:alpine
 haproxy:alpine
 ntop/ntopng
 netdata/netdata
-sflow/snort
 jasonish/suricata
 owasp/modsecurity-crs
 crazymax/fail2ban
