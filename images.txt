@@ -44,7 +44,6 @@ sonatype/nexus3
 quay.io/keycloak/keycloak
 osixia/openldap
 jumpserver/jms_all
-freeipa/freeipa-server
 camunda/camunda-bpm-platform
 apache/airflow
 n8nio/n8n
