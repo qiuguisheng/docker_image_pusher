@@ -29,7 +29,6 @@ php
 ruby
 redis
 rabbitmq
-kibana
 jenkins/jenkins
 gitlab/gitlab
 grafana/grafana
