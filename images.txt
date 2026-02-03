@@ -21,8 +21,6 @@ node:alpine
 python
 python:alpine
 centos:centos8
-centos:stream8
-centos:stream9
 rockylinux:9.3
 rockylinux:latest
 rockylinux:9-minimal
