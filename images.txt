@@ -6,7 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
 ubuntu
-centos
+rocky
 busybox
 mysql
 postgres
