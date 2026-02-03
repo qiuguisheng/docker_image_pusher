@@ -36,3 +36,6 @@ fluent/fluentd
 docker:dind
 portainer/portainer
 traefik
+sanjusss/aliyun-ddns
+gitlab/gitlab-ce:latest
+witersencom/svnadmin:2.5.7
