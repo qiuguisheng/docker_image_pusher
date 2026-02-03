@@ -30,7 +30,6 @@ ruby
 redis
 rabbitmq
 jenkins/jenkins
-gitlab/gitlab
 grafana/grafana
 prom/prometheus
 fluent/fluentd
