@@ -60,7 +60,6 @@ crazymax/fail2ban
 ubuntu/bind9
 kylemanna/openvpn
 linuxserver/wireguard
-linuxserver/dovecot
 roundcube/roundcubemail
 mailu/nginx
 
