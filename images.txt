@@ -22,7 +22,6 @@ python
 python:alpine
 centos:centos8
 rockylinux:9.3
-rockylinux:latest
 rockylinux:9-minimal
 rockylinux:8
 openjdk:17
