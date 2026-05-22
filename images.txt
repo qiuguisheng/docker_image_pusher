@@ -1,4 +1,4 @@
-docker-webdav
+bytemark/webdav
 debian:stable
 nginx
 #支持私库
