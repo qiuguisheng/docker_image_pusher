@@ -1,3 +1,4 @@
+netdisco:latest
 bytemark/webdav
 debian:stable
 nginx
